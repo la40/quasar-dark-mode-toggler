@@ -27,15 +27,12 @@
   "dependencies": {},
   "main": "dist/library.js",
   "module": "dist/library.mjs",
-
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/la40/js-helpers.git"
+    "url": "git+https://github.com/la40/quasar-dark-mode-toggler.git"
   },
-
   "bugs": {
-    "url": "https://github.com/la40/js-helpers/issues"
+    "url": "https://github.com/la40/quasar-dark-mode-toggler/issues"
   },
-
-  "homepage": "https://github.com/la40/js-helpers#readme"
+  "homepage": "https://github.com/la40/quasar-dark-mode-toggler#readme"
 }

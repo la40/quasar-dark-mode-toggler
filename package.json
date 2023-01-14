@@ -1,0 +1,41 @@
+{
+  "name": "@la40/quasar-dark-mode-toggler",
+  "version": "1.0.0",
+  "description": "Quasar dark mode toggler",
+  "keywords": [
+    "quasar",
+    "dark",
+    "toggler"
+  ],
+  "author": "Lachezar Grigorov <lachezar@grigorov.website>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "rollup -c --watch",
+    "build": "rollup -c"
+  },
+  "peerDependencies": {
+    "quasar": "^2.0",
+    "vue": "^3.0",
+    "@quasar/extras": "^1.15",
+    "vue3-cookies": "^1.0"
+  },
+  "devDependencies": {
+    "rollup": "^3.10.0",
+    "rollup-plugin-peer-deps-external": "^2.2.4",
+    "rollup-plugin-vue": "^6.0.0"
+  },
+  "dependencies": {},
+  "main": "dist/library.js",
+  "module": "dist/library.mjs",
+
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/la40/js-helpers.git"
+  },
+
+  "bugs": {
+    "url": "https://github.com/la40/js-helpers/issues"
+  },
+
+  "homepage": "https://github.com/la40/js-helpers#readme"
+}
